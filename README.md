@@ -4,3 +4,5 @@
 - ✉️ How to reach me: [t.me/mindesik](https://t.me/mindesik)
 
 [![mindesik's github stats](https://github-readme-stats.vercel.app/api?username=mindesik&count_private=true&hide_title=true&show_icons=true)](https://github.com/mindesik)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindesik&layout=compact&count_private=true&hide_title=true&show_icons=true)](https://github.com/mindesik)
