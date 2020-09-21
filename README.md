@@ -9,4 +9,4 @@
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindesik&layout=compact&count_private=true&hide_title=true&show_icons=true)](https://github.com/mindesik)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindesik&count_private=true&hide_title=true&show_icons=true)](https://github.com/mindesik)
